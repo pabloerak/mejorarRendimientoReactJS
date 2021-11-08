@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mejorarRendimientoReactJS/static/css/main.0908b3aa.chunk.css",
+    "main.js": "/mejorarRendimientoReactJS/static/js/main.22cf8a9a.chunk.js",
+    "main.js.map": "/mejorarRendimientoReactJS/static/js/main.22cf8a9a.chunk.js.map",
+    "runtime-main.js": "/mejorarRendimientoReactJS/static/js/runtime-main.d855aa68.js",
+    "runtime-main.js.map": "/mejorarRendimientoReactJS/static/js/runtime-main.d855aa68.js.map",
+    "static/js/2.5b9373d1.chunk.js": "/mejorarRendimientoReactJS/static/js/2.5b9373d1.chunk.js",
+    "static/js/2.5b9373d1.chunk.js.map": "/mejorarRendimientoReactJS/static/js/2.5b9373d1.chunk.js.map",
+    "static/js/3.d5ee5480.chunk.js": "/mejorarRendimientoReactJS/static/js/3.d5ee5480.chunk.js",
+    "static/js/3.d5ee5480.chunk.js.map": "/mejorarRendimientoReactJS/static/js/3.d5ee5480.chunk.js.map",
+    "index.html": "/mejorarRendimientoReactJS/index.html",
+    "static/css/main.0908b3aa.chunk.css.map": "/mejorarRendimientoReactJS/static/css/main.0908b3aa.chunk.css.map",
+    "static/js/2.5b9373d1.chunk.js.LICENSE.txt": "/mejorarRendimientoReactJS/static/js/2.5b9373d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d855aa68.js",
+    "static/js/2.5b9373d1.chunk.js",
+    "static/css/main.0908b3aa.chunk.css",
+    "static/js/main.22cf8a9a.chunk.js"
+  ]
+}

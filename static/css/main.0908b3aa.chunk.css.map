@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,gBACE,qBAAsB,CACtB,WACF,CAEA,OACE,kBACF","file":"main.0908b3aa.chunk.css","sourcesContent":["html, body, #root {\n  box-sizing: border-box;\n  height: 100%;\n}\n\nhtml * {\n  box-sizing: inherit;\n}\n"]}
